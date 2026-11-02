@@ -10,10 +10,10 @@ Ngày kiểm tra chung: 2/11/2026. Mọi câu trích dưới đây được đ�
 - "Hiệu lực" lấy từ trường "Tình trạng hiệu lực" của vbpl.vn và từ điều khoản hiệu lực trong chính văn bản. Hai nguồn này đôi khi lệch nhau. Khi lệch, tệp này ghi rõ và tin điều khoản trong văn bản sửa đổi mới hơn.
 - **CHƯA XÁC MINH** nghĩa là chưa mở được văn bản chính thức hoặc chưa tìm được câu trích. Không dùng nội dung đó trong sách.
 - vbpl.vn đã đổi giao diện. Đường dẫn văn bản có dạng `https://vbpl.vn/van-ban/chi-tiet/<id>`. Đường dẫn kiểu cũ `vbpq-toanvan.aspx?ItemID=` không còn dùng.
-- Công cụ tra cứu đã viết sẵn, chạy từ thư mục gốc của kho. Chúng nằm trong `work/`, thư mục này bị `.gitignore` bỏ qua, nên chỉ có trên máy đã làm nghiên cứu này:
-  - `python3 -I work/research/bin/vbsearch.py "<từ khóa hoặc số hiệu>" 10` tìm văn bản trung ương trên vbpl, in ra id, số hiệu, ngày hiệu lực, tình trạng và đường dẫn. Thêm `title` làm tham số thứ ba để chỉ tìm trong tiêu đề.
-  - `python3 -I work/research/bin/vbdoc.py <id> work/research/docs` tải toàn văn về `work/research/docs/<id>.txt` để tìm câu trích.
-  - `python3 -I work/research/bin/vbrel.py <id>` in lược đồ quan hệ. "BySource 10" là các văn bản sửa đổi văn bản này, "BySource 12" là văn bản thay thế nó. Lược đồ của vbpl không đầy đủ, nên phải đối chiếu thêm phần "Căn cứ" của các văn bản mới ban hành.
+- Công cụ tra cứu đã viết sẵn, chạy từ thư mục gốc của kho. Chúng nằm trong `tools/vi/vbpl/`:
+  - `python3 -I tools/vi/vbpl/vbsearch.py "<từ khóa hoặc số hiệu>" 10` tìm văn bản trung ương trên vbpl, in ra id, số hiệu, ngày hiệu lực, tình trạng và đường dẫn. Thêm `title` làm tham số thứ ba để chỉ tìm trong tiêu đề.
+  - `python3 -I tools/vi/vbpl/vbdoc.py <id> work/research/docs` tải toàn văn về `work/research/docs/<id>.txt` để tìm câu trích.
+  - `python3 -I tools/vi/vbpl/vbrel.py <id>` in lược đồ quan hệ. "BySource 10" là các văn bản sửa đổi văn bản này, "BySource 12" là văn bản thay thế nó. Lược đồ của vbpl không đầy đủ, nên phải đối chiếu thêm phần "Căn cứ" của các văn bản mới ban hành.
 
 ## 1. Số điện thoại khẩn cấp và hỗ trợ
 
