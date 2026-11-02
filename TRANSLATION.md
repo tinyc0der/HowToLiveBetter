@@ -106,6 +106,14 @@ Same strictness as the upstream citation rules.
 - **In force on the check date.** Vietnam changed a lot in 2024–2025 (new Luật BHXH 2024, BHYT amendments, Luật Đất đai 2024, Luật Trật tự an toàn giao thông đường bộ 2024, the 2025 criminal code amendment, ministry mergers in 2025, 34 provinces and two-level local government from 1/7/2025). Confirm each document's validity status (hiệu lực) on vbpl.vn or the issuing body's site. Do not cite a superseded text as current.
 - **No numbers, article numbers or document numbers from memory.** Every one must be read in the source. If you cannot verify one, leave it out or write "chưa xác minh" and log it.
 
+### Decisions after the pilot (2/11/2026)
+
+- **When a rule could not be found**, write it impersonally: "Chưa tìm thấy văn bản nào quy định …". Do not write "Chúng tôi …".
+- **News-only cases**: use one only if a web.archive.org snapshot of the article already exists (reading the archive is fine). Do not create new snapshots. Without a snapshot, leave the case out.
+- **State every condition and exception** of a cited article that changes who it applies to or what follows. The most common pilot error was a rule stated more broadly than the text (missing "chỉ khi", exceptions, thresholds).
+- **Keep the modality of the law**: "thì bị" (mandatory) is not "có thể bị"; "phải" is not "nên"; "có thể" is not "phải".
+- **Process cost** has three variants in `vn-baseline.md` §5.6 and §10.1: ordinary civil, consumer (summary procedure, no court-fee advance), labour (mandatory mediation first, arbitration only by agreement). Pick the right one.
+
 ## 5. Grades, benefit levels, cost tags (L entries recompute these)
 
 - **Mức chứng cứ**: A = quantified evidence from meta-analyses, large cohorts or RCTs, or for law/scheme entries an official text with the specific numbers verified in the original; B = research support that is hard to quantify or small, or an official text whose numbers are set locally; C = experience or consensus without direct literature.
