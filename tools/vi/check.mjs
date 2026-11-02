@@ -11,7 +11,7 @@ import {
   ZH_LABELS, VI_LABELS, TAG_RE, STUB_NOTE, urlsOf, numbersOf, HAN_RE,
 } from './lib.mjs';
 
-const OFFICIAL = /(^|\.)(gov\.vn|chinhphu\.vn|quochoi\.vn|vbpl\.vn|who\.int|unicef\.org)$/;
+const OFFICIAL = /(^|\.)(gov\.vn|chinhphu\.vn|quochoi\.vn|vbpl\.vn|kcb\.vn|who\.int|unicef\.org)$/;
 const SCHOLARLY = /(^|\.)(doi\.org|ncbi\.nlm\.nih\.gov|europepmc\.org|cochranelibrary\.com)$/;
 const BANNED = /(^|\.)(thuvienphapluat\.vn|luatvietnam\.vn|facebook\.com|fb\.com|tiktok\.com|zalo\.me|baomoi\.com|wikipedia\.org|youtube\.com|youtu\.be|voz\.vn|tinhte\.vn|webtretho\.com|blogspot\.com|wordpress\.com|medium\.com|zhihu\.com|weixin\.qq\.com|sohu\.com|163\.com|baijiahao\.baidu\.com)$/;
 const TAG_VALUES = { 钱: ['0', '少', '多'], 时间: ['少', '中', '多'], 毅力: ['否', '些', '是'], 收益: ['大', '中', '小'], 口径: ['死亡率', '金钱', '时间', '自由'] };

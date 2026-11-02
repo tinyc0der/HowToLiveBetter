@@ -57,7 +57,7 @@ Ngày kiểm tra chung: 2/11/2026. Mọi câu trích dưới đây được đ�
 
 ### 1.5 Đường dây nóng sức khỏe tâm thần, phòng chống tự sát
 
-- Câu dùng lại: Tính đến ngày 2/11/2026, chúng tôi chưa tìm thấy đường dây nóng quốc gia nào về sức khỏe tâm thần hay phòng chống tự sát do nhà nước vận hành. Khi có nguy hiểm trước mắt, hãy gọi 115 hoặc đến cơ sở y tế gần nhất.
+- Câu dùng lại: Tính đến ngày 2/11/2026, chưa tìm thấy đường dây nóng quốc gia nào về sức khỏe tâm thần hay phòng chống tự sát do nhà nước vận hành. Khi có nguy hiểm trước mắt, hãy gọi 115 hoặc đến cơ sở y tế gần nhất.
 - Đã làm: tra vbpl theo tiêu đề "tâm thần" và "tổng đài tư vấn", không có văn bản nào lập đường dây như vậy. Đọc chương phòng, chống rối loạn tâm thần của Luật Phòng bệnh 114/2025/QH15, không có tổng đài. Đọc trang Viện Sức khỏe Tâm thần, Bệnh viện Bạch Mai (https://bachmai.gov.vn/don-vi/vien-suc-khoe-tam-than/b512eb57-1918-9f43-f356-1773ba4f6d1c): trang chỉ có số liên hệ chung, và ghi về phòng chống tự sát như một việc sẽ làm: "Định hướng phát triển bao gồm xây dựng chương trình dự phòng tự sát, nghiên cứu các yếu tố nguy cơ trong cộng đồng Việt Nam và ứng dụng công nghệ, trí tuệ nhân tạo trong nhận diện sớm nguy cơ tự sát." Ba lần tìm web không ra đường dây nhà nước nào.
 - Chưa kiểm tra: trang của Bệnh viện Tâm thần Trung ương 1, Bệnh viện Tâm thần Trung ương 2, và nimh.gov.vn.
 - Ghi chú: có đường dây của các tổ chức phi chính phủ, nhưng chúng không phải kênh chính thức nên tệp này không ghi. Không dùng số liên hệ chung của Viện Sức khỏe Tâm thần như một "đường dây nóng".
