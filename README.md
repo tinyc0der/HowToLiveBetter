@@ -32,6 +32,24 @@ Nhật ký nghiên cứu từng mục, có câu trích nguyên văn từ văn b�
 Báo cáo kiểm tra độc lập: [translation/verify/](translation/verify/).
 Các căn cứ pháp lý dùng chung: [translation/vn-baseline.md](translation/vn-baseline.md).
 
+## Hiểu các con số
+
+Sách cố dùng lời thường, nhưng khi dẫn nghiên cứu thì khó tránh vài thuật ngữ thống kê. Không hiểu thì tra bảng này. Trên trang tra cứu, từ nào có gạch chân chấm chấm thì rê chuột lên (hoặc chạm vào trên điện thoại) để xem giải thích.
+
+| Thuật ngữ | Nghĩa |
+| --- | --- |
+| tỷ lệ tử vong do mọi nguyên nhân | Trong một khoảng thời gian, số người chết chiếm bao nhiêu phần trong một nhóm người, dù chết vì bất kỳ lý do gì. Sách dùng con số này để đo xem sống lâu hay không. |
+| HR, tỷ số nguy cơ | So xem trong lúc theo dõi, những người chưa gặp chuyện ở nhóm này gặp chuyện nhanh hay chậm hơn nhóm kia. HR 0.87 nghĩa là nguy cơ đó thấp hơn 13%. Nó không có nghĩa là xác suất gặp chuyện trong cả thời gian theo dõi thấp hơn 13%. |
+| RR, nguy cơ tương đối | Lấy xác suất gặp chuyện của nhóm này chia cho nhóm kia, trong cùng một thời gian theo dõi. RR 0.87 nghĩa là thấp hơn 13% so với nhóm kia, không phải cứ 100 người thì bớt 13 người gặp chuyện. |
+| OR, tỷ số chênh | Mỗi nhóm tính riêng "xác suất gặp chuyện chia cho xác suất không gặp chuyện", rồi so hai con số đó. Nó không phải tỷ số giữa hai xác suất. Chỉ khi chuyện đó hiếm gặp thì nó mới gần bằng RR, nên không đổi thẳng thành "cao hơn hay thấp hơn mấy phần" được. |
+| IRR, tỷ số tỷ suất mắc | Tỷ suất mắc là số ca mới xảy ra trong một khoảng thời gian, tính trên số người được theo dõi. Lấy tỷ suất của nhóm này chia cho nhóm kia, đọc giống RR. |
+| SMR, tỷ số tử vong chuẩn hóa | Số người chết thực tế trong một nhóm, chia cho số người lẽ ra sẽ chết nếu họ giống người bình thường cùng tuổi. SMR 15 nghĩa là số người chết gấp 15 lần người cùng tuổi. |
+| 95% CI, khoảng tin cậy | Con số tính ra từ một nghiên cứu luôn có sai số. Đây là khoảng mà con số thật rất có thể nằm trong đó. Với con số dạng "gấp mấy lần", nếu khoảng này vắt qua 1 thì khác biệt giữa hai nhóm có thể chỉ là ngẫu nhiên. Với con số dạng cộng trừ, mốc đó là 0. Khi đó sách ghi là "không có ý nghĩa thống kê". |
+| RCT, thử nghiệm ngẫu nhiên có đối chứng, thử nghiệm chia nhóm ngẫu nhiên | Chia người tham gia thành hai nhóm bằng cách giống như bốc thăm. Một nhóm làm việc đó, nhóm kia không làm, rồi so kết quả. Muốn chứng minh chính việc đó có tác dụng, đây là cách thuyết phục nhất. |
+| phân tích gộp | Gộp kết quả của nhiều nghiên cứu lại rồi tính lại, ra một con số chung. Tiếng Anh gọi là meta-analysis. |
+| nghiên cứu theo dõi | Chọn một nhóm rất đông người, theo dõi nhiều năm và ghi lại ai gặp chuyện. Người nghiên cứu chỉ ghi nhận, không chia nhóm can thiệp. Cách này cho thấy hai việc hay đi cùng nhau, nhưng chưa đủ chứng minh việc trước gây ra việc sau. |
+| BMI | Chỉ số khối cơ thể, con số hay dùng để xem gầy hay béo. Lấy cân nặng tính bằng kg chia cho bình phương chiều cao tính bằng mét. |
+
 ## Giấy phép
 
 Nội dung theo [CC BY 4.0](LICENSE), mã nguồn theo [MIT](LICENSE-CODE).
