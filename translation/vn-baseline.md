@@ -631,6 +631,8 @@ Hà Nội: Luật Thủ đô 02/2026/QH16, Điều 14 khoản 1 điểm b cho H�
 - Nhãn hàng hóa: Nghị định 43/2017/NĐ-CP và Nghị định 111/2021/NĐ-CP đã bị Nghị định 37/2026/NĐ-CP bãi bỏ từ 23/1/2026 (Điều 97 khoản 4 điểm b, c). vbpl vẫn ghi 43/2017 "hết hiệu lực một phần", ghi 37/2026 "Chưa xác định"; phụ lục của 37/2026 chỉ có trên Công báo (https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-37-2026-nd-cp-468865.htm).
 - An toàn thực phẩm: Nghị định 46/2026/NĐ-CP bị Nghị quyết 15/2026/NQ-CP tạm ngưng cho đến khi Luật An toàn thực phẩm (sửa đổi) có hiệu lực; Nghị định 15/2018/NĐ-CP (tự công bố sản phẩm) tiếp tục có hiệu lực (https://vbpl.vn/van-ban/chi-tiet/5809dfa0-6de0-11f1-9036-3bddcf58c6b4).
 
+- Quảng cáo thực phẩm bảo vệ sức khỏe: Nghị định 15/2018/NĐ-CP Điều 27 khoản 3 điểm a: "Phải có khuyến cáo "Thực phẩm này không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh"; chữ viết phải rõ ràng, có màu tương phản với màu nền" (Nghị định 155/2018 và 148/2025 không sửa khoản này; https://vbpl.vn/van-ban/chi-tiet/128513). Nghị định 46/2026 bãi bỏ 15/2018 một cách rõ ràng; 15/2018 còn hiệu lực chỉ nhờ Nghị quyết 15/2026 Điều 2. Căn cứ thứ hai, không phụ thuộc việc tạm ngưng: Nghị định 342/2025/NĐ-CP (chi tiết Luật Quảng cáo, hiệu lực 15/2/2026) Điều 5 khoản 3 điểm b, cùng câu khuyến cáo; điểm c: dưới 15 giây trên báo nói, báo hình thì không phải đọc nhưng phải thể hiện (https://vbpl.vn/van-ban/chi-tiet/185624).
+
 ### 11.2 Thuốc lá
 - Thuốc lá điện tử, thuốc lá nung nóng bị cấm sản xuất, kinh doanh, nhập khẩu, chứa chấp, vận chuyển, sử dụng từ năm 2025 (Nghị quyết 173/2024/QH15, chỉ có trên Công báo: https://congbao.chinhphu.vn/noi-dung-van-ban-so-173-2024-qh15-43508?cbid=53441). Định nghĩa ở Nghị định 371/2025/NĐ-CP Điều 1 (dung dịch "có hoặc không chứa nicotine"); Điều 2 của nghị định này đã bị Nghị định 90/2026/NĐ-CP Điều 115 khoản 2 điểm c bãi bỏ. Người sử dụng bị phạt 3 đến 5 triệu đồng (Nghị định 90/2026, Điều 26). Dự thảo Luật sửa đổi Luật Phòng, chống tác hại của thuốc lá mới trình Quốc hội ngày 21/10/2026, chưa thông qua.
 - Luật Phòng, chống tác hại của thuốc lá 09/2012/QH13: Điều 11 khoản 3 (cấm hút hoàn toàn trên phương tiện giao thông công cộng), Điều 13 khoản 2 (không hút trong nhà khi có trẻ em, phụ nữ mang thai, người bệnh, người cao tuổi).
@@ -651,6 +653,16 @@ Hà Nội: Luật Thủ đô 02/2026/QH16, Điều 14 khoản 1 điểm b cho H�
 ### 11.5 Mẹo tra cứu
 - Nhiều trang Sở Y tế tỉnh chặn yêu cầu bằng script (thử thách cookie JavaScript). Mở trang bằng trình duyệt thật (`agent-browser`), lấy cookie, rồi tải bằng curl kèm cookie.
 - Trang moh.gov.vn đã đổi giao diện, đường dẫn bài cũ trả về 404; vncdc.gov.vn thường không kết nối được.
+
+## 12. Bổ sung từ phần 5 (2/11/2026)
+
+Các mục dưới đây do người viết và người kiểm tra độc lập phần 5 đọc nguyên văn; chi tiết trong translation/verify/05.md.
+
+- Luật Bảo vệ quyền lợi người tiêu dùng 19/2023/QH15: Điều 3 khoản 1 định nghĩa người tiêu dùng là người mua hàng hóa, dịch vụ cho tiêu dùng cá nhân, gia đình, không vì mục đích thương mại; điều này không nhắc tên bảo hiểm, nên coi người mua bảo hiểm là người tiêu dùng là cách đọc, phải ghi là cách đọc. Luật chỉ ràng buộc tổ chức, cá nhân kinh doanh (Điều 2 khoản 2, Điều 3 khoản 2), không phải mọi người bán. Điều 69 khoản 1: người tiêu dùng không có nghĩa vụ chứng minh lỗi của tổ chức, cá nhân kinh doanh.
+- Luật Kinh doanh bảo hiểm 08/2022/QH15 Điều 35 (21 ngày cân nhắc) nằm trong phần hợp đồng bảo hiểm nhân thọ và sức khỏe, nên chỉ áp dụng cho hai loại này, không cho mọi hợp đồng trên 1 năm.
+- Thông tư 67/2023/TT-BTC Điều 53 khoản 3 điểm a, c: ngân hàng không được bán bảo hiểm trong 60 ngày trước và sau ngày giải ngân hết khoản vay. Thông tư 96/2026 chỉ thêm điểm d vào khoản 3 và sửa khoản 4.
+- Nghị định 46/2023/NĐ-CP (chi tiết Luật Kinh doanh bảo hiểm) bị sửa bởi Nghị định 97/2026/NĐ-CP, ký và có hiệu lực 31/3/2026 (vbpl ghi 13/3/2026 là lỗi dữ liệu); Nghị định 97/2026 không sửa Điều 3 và Điều 62.
+- Đầu tư ra nước ngoài của cá nhân: Nghị định 135/2015/NĐ-CP Điều 5 khoản 1 (cá nhân chỉ được đầu tư gián tiếp ra nước ngoài qua chương trình thưởng cổ phiếu của doanh nghiệp nước ngoài cho người lao động) vẫn áp dụng. Nghị định 103/2026/NĐ-CP (hiệu lực 3/4/2026, theo Luật Đầu tư 143/2025) Điều 1 khoản 2 điểm a loại trừ việc mua bán chứng khoán ở nước ngoài. Luật 24/2026/QH16 sửa Luật Đầu tư 143/2025 từ 1/3/2027, không sửa Điều 39. Đường hợp pháp trong nước: quỹ chứng khoán trong nước được đầu tư ra nước ngoài khi được chấp thuận (Nghị định 135/2015 Điều 13 khoản 2, Điều 14 khoản 1 điểm b). Phạt: Nghị định 340/2025/NĐ-CP Điều 27 khoản 4 điểm g, h (30 đến 50 triệu đồng) và khoản 10 điểm a (tịch thu số ngoại tệ, đồng Việt Nam liên quan); áp các điểm này cho việc nạp tiền vào tài khoản môi giới nước ngoài là cách đọc, chưa đối chiếu quyết định xử phạt nào.
 
 ## Danh sách CHƯA XÁC MINH
 
