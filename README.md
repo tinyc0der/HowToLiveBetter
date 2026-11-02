@@ -1,4 +1,4 @@
-# Sống đáng đồng tiền: bản tiếng Việt (thử nghiệm)
+# Sống đáng đồng tiền: bản tiếng Việt (đang dịch)
 
 Đây là bản tiếng Việt của 高性价比人生指南 ([eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)).
 Mỗi mục là một lời khuyên, kèm cái giá phải trả, cái được, mức chứng cứ và nguồn gốc.
@@ -9,10 +9,10 @@ Sách có thể lỗi thời hoặc có chỗ sai. Khi thật sự đi làm th�
 
 ## Đang có
 
-Bản thử nghiệm mới có hai phần:
+Đã có 2/34 phần:
 
-- [1. Đừng chết sớm](book/01-dung-chet-som.md): tai nạn, ngộ độc, vắc xin, sàng lọc bệnh, khủng hoảng tâm lý.
-- [8. Đừng tự chuốc họa vào thân: pháp luật và an toàn tài sản](book/08-dung-tu-chuoc-hoa-vao-than-phap-luat.md): lừa đảo, tai nạn giao thông, bị tố cáo, vay nợ, hôn nhân, bạo lực gia đình.
+- [1. Đừng chết sớm](book/01-dung-chet-som.md)
+- [8. Đừng tự chuốc họa vào thân: pháp luật và an toàn tài sản](book/08-dung-tu-chuoc-hoa-vao-than-phap-luat.md)
 
 Số thứ tự phần và mục giữ đúng như bản gốc tiếng Trung, nên "phần X mục Y" ở bản này và bản gốc chỉ cùng một mục.
 
