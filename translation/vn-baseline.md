@@ -638,7 +638,7 @@ Hà Nội: Luật Thủ đô 02/2026/QH16, Điều 14 khoản 1 điểm b cho H�
 
 ### 11.3 Bảo hiểm y tế và khám chữa bệnh
 - Luật Bảo hiểm y tế 25/2008/QH12, Điều 23 khoản 11: không chi trả "Khám bệnh, chữa bệnh nghiện ma túy, nghiện rượu hoặc chất gây nghiện khác" (còn nguyên số khoản ngày 2/11/2026). Chuỗi sửa đổi gồm cả Luật 32/2013/QH13; Luật Phòng bệnh 114/2025/QH15 sửa khoản 3 Điều 23 thành "Khám sức khỏe, trừ khám sức khỏe định kỳ và khám sàng lọc".
-- Thông tư 35/2016/TT-BYT, Danh mục 2: điều kiện bảo hiểm y tế thanh toán dịch vụ kỹ thuật (ví dụ STT 9 "Đo đa ký hô hấp" khi có 2 trên 3 dấu hiệu).
+- Thông tư 35/2016/TT-BYT, Danh mục 2: điều kiện bảo hiểm y tế thanh toán dịch vụ kỹ thuật. Danh mục này đã được Thông tư 39/2024/TT-BYT (hiệu lực 1/1/2025) sửa: ví dụ "Đo đa ký hô hấp" nay có điều kiện "Để chẩn đoán hội chứng ngừng thở khi ngủ" (phụ lục: datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/39-byt-kem.pdf; hợp nhất 17/VBHN-BYT). Luôn đọc bản đã sửa, đừng trích bản 2016.
 - Thông tư 20/2022/TT-BYT (danh mục thuốc bảo hiểm y tế): phụ lục chỉ có ở văn bản hợp nhất 15/VBHN-BYT trên datafiles.chinhphu.vn (bản quét).
 - Luật Khám bệnh, chữa bệnh 15/2023/QH15: Điều 3 khoản 2 (ưu tiên người cấp cứu, trẻ dưới 6 tuổi, phụ nữ có thai, người khuyết tật nặng, người từ đủ 75 tuổi…); Điều 18 (người bệnh trả chi phí khám, chữa bệnh); Điều 61 khoản 7 (người dùng dịch vụ cấp cứu ngoài bệnh viện trả phí, trừ tai nạn, thảm họa, một số dịch bệnh). Gọi 115 không mất cước không có nghĩa là xe cấp cứu miễn phí.
 
