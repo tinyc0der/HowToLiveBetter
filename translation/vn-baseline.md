@@ -623,6 +623,35 @@ Hà Nội: Luật Thủ đô 02/2026/QH16, Điều 14 khoản 1 điểm b cho H�
 - Mục 15: đã trích Điều 148 khoản 2 và Điều 160 khoản 1, 3 Bộ luật Tố tụng hình sự.
 - Mục 16 (một phần): Luật 81/2025/QH15 chỉ đổi tên tòa ở Điều 123 Luật Hôn nhân và gia đình, và chỉ sửa Điều 36 khoản 3, Điều 53 Luật Trách nhiệm bồi thường của Nhà nước.
 
+## 11. Bổ sung từ phần 2 và phần 3 (2/11/2026)
+
+Đã được người viết và người kiểm tra độc lập đọc trong văn bản gốc. Câu trích nằm trong `translation/log/02.md`, `03.md` và `translation/verify/02.md`, `03.md`.
+
+### 11.1 Thực phẩm và nhãn hàng hóa
+- Nhãn hàng hóa: Nghị định 43/2017/NĐ-CP và Nghị định 111/2021/NĐ-CP đã bị Nghị định 37/2026/NĐ-CP bãi bỏ từ 23/1/2026 (Điều 97 khoản 4 điểm b, c). vbpl vẫn ghi 43/2017 "hết hiệu lực một phần", ghi 37/2026 "Chưa xác định"; phụ lục của 37/2026 chỉ có trên Công báo (https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-37-2026-nd-cp-468865.htm).
+- An toàn thực phẩm: Nghị định 46/2026/NĐ-CP bị Nghị quyết 15/2026/NQ-CP tạm ngưng cho đến khi Luật An toàn thực phẩm (sửa đổi) có hiệu lực; Nghị định 15/2018/NĐ-CP (tự công bố sản phẩm) tiếp tục có hiệu lực (https://vbpl.vn/van-ban/chi-tiet/5809dfa0-6de0-11f1-9036-3bddcf58c6b4).
+
+### 11.2 Thuốc lá
+- Thuốc lá điện tử, thuốc lá nung nóng bị cấm sản xuất, kinh doanh, nhập khẩu, chứa chấp, vận chuyển, sử dụng từ năm 2025 (Nghị quyết 173/2024/QH15, chỉ có trên Công báo: https://congbao.chinhphu.vn/noi-dung-van-ban-so-173-2024-qh15-43508?cbid=53441). Định nghĩa ở Nghị định 371/2025/NĐ-CP Điều 1 (dung dịch "có hoặc không chứa nicotine"); Điều 2 của nghị định này đã bị Nghị định 90/2026/NĐ-CP Điều 115 khoản 2 điểm c bãi bỏ. Người sử dụng bị phạt 3 đến 5 triệu đồng (Nghị định 90/2026, Điều 26). Dự thảo Luật sửa đổi Luật Phòng, chống tác hại của thuốc lá mới trình Quốc hội ngày 21/10/2026, chưa thông qua.
+- Luật Phòng, chống tác hại của thuốc lá 09/2012/QH13: Điều 11 khoản 3 (cấm hút hoàn toàn trên phương tiện giao thông công cộng), Điều 13 khoản 2 (không hút trong nhà khi có trẻ em, phụ nữ mang thai, người bệnh, người cao tuổi).
+- Đăng ký thuốc cai thuốc lá (tra dichvucong.dav.gov.vn ngày 2/11/2026): varenicline (Champix) có số đăng ký mới nhất bị thu hồi; không có miếng dán nicotine; kẹo cao su và viên ngậm nicotine có số đăng ký, một số là thuốc không kê đơn; bupropion là thuốc kê đơn, chỉ định trầm cảm. Đường dây tư vấn cai thuốc lá miễn phí 1800 6606 của Bệnh viện Bạch Mai (trang bachmai.gov.vn).
+
+### 11.3 Bảo hiểm y tế và khám chữa bệnh
+- Luật Bảo hiểm y tế 25/2008/QH12, Điều 23 khoản 11: không chi trả "Khám bệnh, chữa bệnh nghiện ma túy, nghiện rượu hoặc chất gây nghiện khác" (còn nguyên số khoản ngày 2/11/2026). Chuỗi sửa đổi gồm cả Luật 32/2013/QH13; Luật Phòng bệnh 114/2025/QH15 sửa khoản 3 Điều 23 thành "Khám sức khỏe, trừ khám sức khỏe định kỳ và khám sàng lọc".
+- Thông tư 35/2016/TT-BYT, Danh mục 2: điều kiện bảo hiểm y tế thanh toán dịch vụ kỹ thuật (ví dụ STT 9 "Đo đa ký hô hấp" khi có 2 trên 3 dấu hiệu).
+- Thông tư 20/2022/TT-BYT (danh mục thuốc bảo hiểm y tế): phụ lục chỉ có ở văn bản hợp nhất 15/VBHN-BYT trên datafiles.chinhphu.vn (bản quét).
+- Luật Khám bệnh, chữa bệnh 15/2023/QH15: Điều 3 khoản 2 (ưu tiên người cấp cứu, trẻ dưới 6 tuổi, phụ nữ có thai, người khuyết tật nặng, người từ đủ 75 tuổi…); Điều 18 (người bệnh trả chi phí khám, chữa bệnh); Điều 61 khoản 7 (người dùng dịch vụ cấp cứu ngoài bệnh viện trả phí, trừ tai nạn, thảm họa, một số dịch bệnh). Gọi 115 không mất cước không có nghĩa là xe cấp cứu miễn phí.
+
+### 11.4 Hướng dẫn chuyên môn của Bộ Y tế đã đối chiếu
+- Quyết định 2892/QĐ-BYT (2022), chẩn đoán và điều trị béo phì, Bảng 4.1 cho người châu Á: dưới 18,5 thiếu cân; 18,5–22,9 bình thường; 23–24,9 thừa cân; 25–29,9 béo phì độ I; từ 30 béo phì độ II (bản chính thức trên syt.hue.gov.vn, cần trình duyệt thật để tải).
+- Quyết định 3087/QĐ-BYT (2020), tiền đái tháo đường (kcb.vn): glucose lúc đói 5,6–6,9 mmol/L; 2 giờ 7,8–11,0 mmol/L; HbA1c 5,7–6,4%; khám mỗi tháng, HbA1c mỗi 3 tháng.
+- Quyết định 2855/QĐ-BYT (2024), viêm gan C.
+- Chỉ thị 03/CT-TTg (2021), mục 12 điểm i: vận động hộ gia đình hạn chế, tiến tới không dùng than tổ ong; Chỉ thị 20/CT-TTg (2025) không nhắc lại.
+
+### 11.5 Mẹo tra cứu
+- Nhiều trang Sở Y tế tỉnh chặn yêu cầu bằng script (thử thách cookie JavaScript). Mở trang bằng trình duyệt thật (`agent-browser`), lấy cookie, rồi tải bằng curl kèm cookie.
+- Trang moh.gov.vn đã đổi giao diện, đường dẫn bài cũ trả về 404; vncdc.gov.vn thường không kết nối được.
+
 ## Danh sách CHƯA XÁC MINH
 
 Những điểm dưới đây chưa mở được văn bản chính thức hoặc chưa có câu trích. Không dùng trong sách cho đến khi có người xác minh.
