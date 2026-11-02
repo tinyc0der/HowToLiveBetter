@@ -595,6 +595,8 @@ Các mục dưới đây do người viết và người kiểm tra độc lập
 | Y tế | Nghị định 90/2026/NĐ-CP (https://vbpl.vn/van-ban/chi-tiet/eaaaf970-9946-11f1-b0b8-ab6ff594e7de) | 117/2020/NĐ-CP | 15/5/2026 |
 | Phòng cháy, chữa cháy | Nghị định 106/2025/NĐ-CP, sửa bởi Nghị định 347/2026/NĐ-CP | — | — |
 
+Cách tính mức phạt khác nhau giữa các nghị định: Nghị định 340/2025 và 45/2019 ghi mức cho cá nhân, tổ chức gấp đôi; Nghị định 284/2026 ghi mức cho tổ chức, cá nhân bằng một nửa. Đọc điều "mức phạt" ở đầu từng nghị định trước khi viết con số.
+
 Hà Nội: Luật Thủ đô 02/2026/QH16, Điều 14 khoản 1 điểm b cho Hội đồng nhân dân thành phố đặt mức phạt về phòng cháy, chữa cháy và giao thông cao hơn, tối đa gấp đôi mức chung.
 
 ### 10.3 Luật, văn bản mới hoặc mới sửa
@@ -664,6 +666,17 @@ Các mục dưới đây do người viết và người kiểm tra độc lập
 - Nghị định 46/2023/NĐ-CP (chi tiết Luật Kinh doanh bảo hiểm) bị sửa bởi Nghị định 97/2026/NĐ-CP, ký và có hiệu lực 31/3/2026 (vbpl ghi 13/3/2026 là lỗi dữ liệu); Nghị định 97/2026 không sửa Điều 3 và Điều 62.
 - Đầu tư ra nước ngoài của cá nhân: Nghị định 135/2015/NĐ-CP Điều 5 khoản 1 (cá nhân chỉ được đầu tư gián tiếp ra nước ngoài qua chương trình thưởng cổ phiếu của doanh nghiệp nước ngoài cho người lao động) vẫn áp dụng. Nghị định 103/2026/NĐ-CP (hiệu lực 3/4/2026, theo Luật Đầu tư 143/2025) Điều 1 khoản 2 điểm a loại trừ việc mua bán chứng khoán ở nước ngoài. Luật 24/2026/QH16 sửa Luật Đầu tư 143/2025 từ 1/3/2027, không sửa Điều 39. Đường hợp pháp trong nước: quỹ chứng khoán trong nước được đầu tư ra nước ngoài khi được chấp thuận (Nghị định 135/2015 Điều 13 khoản 2, Điều 14 khoản 1 điểm b). Phạt: Nghị định 340/2025/NĐ-CP Điều 27 khoản 4 điểm g, h (30 đến 50 triệu đồng) và khoản 10 điểm a (tịch thu số ngoại tệ, đồng Việt Nam liên quan); áp các điểm này cho việc nạp tiền vào tài khoản môi giới nước ngoài là cách đọc, chưa đối chiếu quyết định xử phạt nào.
 
+- Tổng đài tư vấn, hỗ trợ người tiêu dùng 1800 6838 (miễn phí, hướng dẫn cách khiếu nại): ghi là "của Bộ Công Thương", nguồn moit.gov.vn (trang năm 2015 nói số miễn phí; trang 17/7/2026 về Quyết định 1769/QĐ-BCT xác nhận tổng đài còn hoạt động). vcc.gov.vn không truy cập được từ máy tra cứu ngày 2/11/2026, nên đừng ghi "của Ủy ban Cạnh tranh Quốc gia" khi chưa mở được nguồn.
+- Thông tư 14/2026 (dấu hợp quy CR): toàn văn trên vbpl để trống ngày hiệu lực; bản ký số ghi 25/5/2026. Dấu CR chỉ bắt buộc với hàng đã được chứng nhận hợp quy (Điều 4 khoản 2 điểm a), không phải mọi hàng có công bố hợp quy.
+- Bảo hiểm bắt buộc trách nhiệm dân sự chủ xe cơ giới: quy tắc tạm ứng 50% (Nghị định 67/2023 Điều 12 khoản 6 điểm a) chỉ cho bên thứ ba; Điều 3 khoản 5 loại trừ hành khách trên xe.
+
+## 13. Bổ sung từ phần 6 (2/11/2026)
+
+- Luật Khám bệnh, chữa bệnh 15/2023/QH15 (hiệu lực 1/1/2024, https://vbpl.vn/van-ban/chi-tiet/168125): Điều 7 khoản 19 cấm "cố ý thực hiện bắt buộc chữa bệnh đối với người không thuộc trường hợp bắt buộc chữa bệnh"; Điều 10 khoản 4 người bệnh "không bị ép buộc khám bệnh, chữa bệnh, trừ trường hợp bắt buộc chữa bệnh quy định tại khoản 1 Điều 82"; Điều 15 khoản 3 với người bệnh chưa thành niên, các quyền của người bệnh được thực hiện theo quyết định của người đại diện. Luật Phòng bệnh 114/2025 không sửa luật này.
+- Khám sức khỏe định kỳ, khám sàng lọc miễn phí (Nghị định 165/2026/NĐ-CP Điều 69, 70; bản ký số trên dinre.mae.gov.vn; Nghị định 349/2026 trên vbpl dẫn số và ngày của nó): từ năm 2026 Ủy ban nhân dân cấp tỉnh tổ chức khám ít nhất mỗi năm một lần cho nhóm điểm a (người cao tuổi, người khuyết tật, hộ nghèo, cận nghèo, người có công, người mắc bệnh mạn tính, người sống ở vùng đồng bào dân tộc thiểu số và miền núi, vùng khó khăn, xã đảo, đặc khu). Trẻ mầm non, học sinh, người lao động, lực lượng Bộ Quốc phòng, Bộ Công an do trường, người sử dụng lao động, bộ tổ chức. Những người còn lại: tỉnh tổ chức "căn cứ khả năng cân đối ngân sách và nguồn huy động hợp pháp". Văn bản dùng "tổ chức", không dùng "phải".
+- Tra Cơ sở dữ liệu thuốc của Cục Quản lý Dược (dichvucong.dav.gov.vn) bằng curl: lấy cookie XSRF-TOKEN từ trang chủ, gửi lại trong header X-XSRF-TOKEN; lọc thuốc không kê đơn bằng thongTinThuocCoBan_LoaiThuocId=1.
+- Bảng sống WHO: ghoapi.azureedge.net trả HTTP 500 ngày 2/11/2026; cùng dữ liệu lấy được từ WHO xMart API (chỉ số LIFE_0000000031 lx, LIFE_0000000035 ex).
+
 ## Danh sách CHƯA XÁC MINH
 
 Những điểm dưới đây chưa mở được văn bản chính thức hoặc chưa có câu trích. Không dùng trong sách cho đến khi có người xác minh.
@@ -678,7 +691,7 @@ Những điểm dưới đây chưa mở được văn bản chính thức hoặ
 8. Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ, Điều 6: chưa đọc Luật Thủ đô 02/2026/QH16.
 9. Nghị định 165/2026/NĐ-CP (đối tượng tiêm chủng thường xuyên), lịch tiêm hiện hành của Cục Phòng bệnh, lộ trình vắc xin HPV và phế cầu.
 10. Nghị định quy định chức năng của Bộ Công an (không có trên vbpl).
-11. Quy trình cụ thể "báo ngân hàng để chặn tiền" khi bị lừa chuyển khoản; tình trạng thật của Nghị định 52/2024/NĐ-CP (vbpl hiển thị ngày hiệu lực 2027-07-01, nghi lỗi dữ liệu).
+11. Quy trình cụ thể "báo ngân hàng để chặn tiền" khi bị lừa chuyển khoản. (Đã xác minh khi làm phần 5: Nghị định 52/2024/NĐ-CP có hiệu lực từ 1/7/2024 theo Điều 37 của chính nó, Thông tư 21/2026/TT-NHNN dẫn nó làm căn cứ; ngày 2027-07-01 trên vbpl là lỗi dữ liệu.)
 12. Nghị định quy định "khó khăn về tài chính" cho người được trợ giúp pháp lý (Luật Trợ giúp pháp lý Điều 7 khoản 7).
 13. Phần trừ điểm, tước giấy phép lái xe kèm mức phạt nồng độ cồn (Nghị định 168/2024/NĐ-CP, Điều 6 và Điều 7).
 14. Luật số 13/2026/QH16 và 17/2026/QH16: không thấy trên vbpl, không rõ là luật gì. Các luật khóa XVI còn lại đã tra tiêu đề, không có luật nào sửa Bộ luật Hình sự, Bộ luật Tố tụng dân sự hay Bộ luật Dân sự.
