@@ -9,13 +9,14 @@ Sách có thể lỗi thời hoặc có chỗ sai. Khi thật sự đi làm th�
 
 ## Đang có
 
-Đã có 6/34 phần:
+Đã có 7/34 phần:
 
 - [1. Đừng chết sớm](book/01-dung-chet-som.md)
 - [2. Đừng chết từ từ](book/02-dung-chet-tu-tu.md)
 - [3. Đừng lãng phí sức lực](book/03-dung-lang-phi-suc-luc.md)
 - [4. Đừng lãng phí thời gian](book/04-dung-lang-phi-thoi-gian.md)
 - [5. Đừng lãng phí tiền](book/05-dung-lang-phi-tien.md)
+- [6. Những thứ tưởng đáng mà không đáng](book/06-nhung-thu-tuong-dang-ma-khong-dang.md)
 - [8. Đừng tự chuốc họa vào thân: pháp luật và an toàn tài sản](book/08-dung-tu-chuoc-hoa-vao-than-phap-luat.md)
 
 Số thứ tự phần và mục giữ đúng như bản gốc tiếng Trung, nên "phần X mục Y" ở bản này và bản gốc chỉ cùng một mục.
