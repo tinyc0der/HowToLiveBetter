@@ -18,6 +18,35 @@ const TAG_VALUES = { 钱: ['0', '少', '多'], 时间: ['少', '中', '多'], �
 const WHO = ['怀孕', '婴幼儿', '孩子', '老人', '35岁', '60岁', '女性'];
 const host = u => { try { return new URL(u).hostname.toLowerCase(); } catch { return ''; } };
 
+// Number parity for T entries. Expected differences are not reported:
+// thousands separators ("248,099" = "248099"), unit words (zh 1.15 万 = vi 11500 / 11.5 nghìn),
+// Chinese prices in 元 (replaced by VND estimates) and Chinese hotlines (replaced by Vietnamese ones).
+const CN_HOTLINES = new Set(['110', '119', '120', '122', '12356', '12355', '12320', '12315', '96110', '12345']);
+const ZH_UNITS = { 万: 1e4, 亿: 1e8 };
+const VI_UNITS = { nghìn: 1e3, ngàn: 1e3, vạn: 1e4, triệu: 1e6, tỷ: 1e9 };
+const norm = x => String(Math.round(x * 1000) / 1000);
+function viNumbers(s) {
+  // "2.530.000" may be a Vietnamese thousands-separated amount; "0.58" is a decimal. Keep both readings.
+  const t = (s ?? '').replace(/\b([1-9]\d{0,2})((?:\.\d{3})+)\b/g, (_, a, b) => a + b.replace(/\./g, ''));
+  const out = new Set([...numbersOf(s), ...numbersOf(t)]);
+  for (const m of t.matchAll(/(\d+(?:\.\d+)?)\s*(nghìn|ngàn|vạn|triệu|tỷ)/g)) out.add(norm(Number(m[1]) * VI_UNITS[m[2]]));
+  for (const n of [...out]) out.add(norm(Number(n)));
+  return out;
+}
+function zhMissing(zhText, viText) {
+  const have = viNumbers(viText);
+  const t = (zhText ?? '').replace(/(\d),(?=\d{3}\b)/g, '$1');
+  const miss = new Set();
+  for (const m of t.matchAll(/(\d+(?:\.\d+)?)(\s*(万|亿))?(\s*(元|块))?/g)) {
+    const [, n, , unit, , yuan] = m;
+    if (yuan || CN_HOTLINES.has(n)) continue;
+    const alts = [n, norm(Number(n))];
+    if (unit) alts.push(norm(Number(n) * ZH_UNITS[unit]));
+    if (!alts.some(a => have.has(a))) miss.add(n);
+  }
+  return [...miss];
+}
+
 const errors = [], warnings = [];
 const err = (where, msg) => errors.push(`${where}: ${msg}`);
 const warn = (where, msg) => warnings.push(`${where}: ${msg}`);
@@ -96,8 +125,7 @@ function checkEntry(where, v, z, fileDir) {
     for (const u of urlsOf(z.raw)) if (!viUrls.has(u)) err(where, `T entry: zh URL missing: ${u}`);
     if (/^争议/.test(zp.fields.note ?? '') && !/^Tranh cãi/.test(vp.fields.note ?? '')) err(where, 'T entry: zh note starts with 争议, vi Ghi chú must start with "Tranh cãi"');
     for (const k of ['gain', 'human', 'note']) {
-      const have = new Set(numbersOf(vp.fields[k]));
-      const miss = [...new Set(numbersOf(zp.fields[k]))].filter(n => !have.has(n));
+      const miss = zhMissing(zp.fields[k], vp.fields[k]);
       if (miss.length) warn(where, `${VI_LABELS[k]}: zh numbers not in vi: ${miss.join(', ')}`);
     }
   } else {

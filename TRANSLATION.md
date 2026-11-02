@@ -20,6 +20,8 @@ Every entry keeps its upstream number. Under the cost-tag line add one hidden li
 | **L** localize | What the reader should do, what it costs, what they are entitled to, or what legal consequence follows depends on national law or schemes. | Rewrite against Vietnamese law/schemes. Remove the Chinese legal content entirely (do not mix). Keep universal evidence (journal sources) if it still applies. Recompute the cost tag, benefit level, lens and grade (sections 4–5). State the check date: "tính đến ngày 2/11/2026" (or the date you read the source). |
 | **S** stub | No Vietnamese counterpart with an official source could be found and verified. | Exactly four lines: heading, cost-tag line copied unchanged, `<!-- vi: S -->`, and `- Ghi chú: TODO — chưa tìm được quy định Việt Nam tương đương có nguồn chính thức. Bản gốc (áp dụng tại Trung Quốc): phần N mục M, <upstream link>.` The upstream link must be percent-encoded (no Chinese characters), e.g. `https://github.com/eternity4719/HowToLiveBetter/blob/main/book/08-%E5%88%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E6%90%AD%E8%BF%9B%E5%8E%BB.md`. |
 
+A T entry may also carry **one sourced Vietnamese cost or coverage note** (for example "vắc xin này không nằm trong Chương trình tiêm chủng mở rộng, bạn tự trả tiền") in `Chi phí` or `Ghi chú`, as long as the cost-tag line stays unchanged. It stays T so that later upstream changes to its evidence still flag it for retranslation. If the Vietnamese rule changes the cost tier or the action, the entry is L.
+
 Choosing between L and S: **an unverified Vietnamese claim is worse than a stub.** If you cannot open the official text and quote the sentence that supports the claim, write S (or drop that claim from an L entry).
 
 ## 2. Entry format
@@ -80,6 +82,13 @@ Choosing between L and S: **an unverified Vietnamese claim is worse than a stub.
 | 元 (人民币) | nhân dân tệ (when copying a Chinese amount) |
 | 世界卫生组织 (WHO) | Tổ chức Y tế Thế giới (WHO) |
 | 美国疾控中心 (CDC) | Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ (CDC) |
+| 美国预防服务工作组 (USPSTF) | Lực lượng Đặc nhiệm Dịch vụ Dự phòng Hoa Kỳ (USPSTF) — spell out once per entry |
+| 髋部骨折 | gãy xương vùng háng (gãy cổ xương đùi) |
+| 幽门螺杆菌 | vi khuẩn H. pylori |
+| 抗凝药 | thuốc chống đông |
+| 收益量级 大 / 中 / 小 (in prose) | lớn / trung bình / nhỏ |
+| 比值比的"odds" | số chênh |
+| Chinese author names in Nguồn | pinyin as in the original citation, never Sino-Vietnamese readings |
 
 Add Vietnamese institution and law names from `translation/vn-baseline.md`; keep them identical across entries.
 

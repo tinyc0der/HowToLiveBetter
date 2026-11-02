@@ -574,6 +574,55 @@ Mỗi dòng "Sửa đổi" dưới đây lấy từ phần "Căn cứ" của vă
   - Đối tượng tiêm thường xuyên được dẫn sang "điểm a, điểm c khoản 1 Điều 48 Nghị định số 165/2026/NĐ-CP". Nghị định này không có trên vbpl khi tra ngày 2/11/2026, nên chưa xác minh ai là đối tượng (ví dụ trẻ em độ tuổi nào, nữ giới độ tuổi nào với HPV).
   - Câu "ngân sách chi trả" là theo Luật Phòng bệnh. Không viết thời điểm hay độ tuổi triển khai vắc xin HPV và phế cầu, vì chưa xác minh lộ trình.
 
+## 10. Bổ sung từ đợt thử nghiệm phần 1 và phần 8 (2/11/2026)
+
+Các mục dưới đây do người viết và người kiểm tra độc lập của phần 1 và phần 8 đọc trong văn bản gốc ngày 2/11/2026. Câu trích nguyên văn nằm trong `translation/log/01.md`, `translation/log/08.md` và các báo cáo kiểm tra; ở đây chỉ ghi kết luận, số hiệu và đường dẫn.
+
+### 10.1 Biến thể của câu chi phí tố tụng (bổ sung mục 5.6)
+
+- Vụ kiện của người tiêu dùng: giao dịch dưới 100 triệu đồng được giải quyết theo thủ tục rút gọn (Luật Bảo vệ quyền lợi người tiêu dùng 2023, Điều 70 khoản 2). Thủ tục rút gọn: chuẩn bị xét xử 1 tháng, mở phiên tòa trong 10 ngày (Bộ luật Tố tụng dân sự, Điều 318). Người tiêu dùng không phải nộp tiền tạm ứng án phí (Luật Bảo vệ quyền lợi người tiêu dùng, Điều 71 khoản 2). Tiền thuê luật sư vẫn do bên thuê trả. URL: https://vbpl.vn/van-ban/chi-tiet/161263
+- Tranh chấp lao động cá nhân: phải qua hòa giải viên lao động trước khi ra tòa, hòa giải xong trong 5 ngày làm việc (Bộ luật Lao động 2019, Điều 188 khoản 1). Một số tranh chấp không bắt buộc hòa giải, ví dụ bị sa thải hay bị đơn phương chấm dứt hợp đồng (cùng khoản). Hội đồng trọng tài lao động chỉ giải quyết khi hai bên đồng thuận (Điều 189 khoản 1). URL: https://vbpl.vn/van-ban/chi-tiet/139264
+- Kiện đòi bồi thường về sức khỏe, danh dự, nhân phẩm: được miễn tạm ứng án phí và án phí (Nghị quyết 326/2016/UBTVQH14, Điều 12 khoản 1 điểm d). URL: https://vbpl.vn/van-ban/chi-tiet/119086
+
+### 10.2 Nghị định xử phạt đã thay mới (đừng trích văn bản cũ)
+
+| Lĩnh vực | Văn bản đang áp dụng | Thay văn bản | Hiệu lực từ |
+| --- | --- | --- | --- |
+| An ninh, trật tự, phòng chống bạo lực gia đình | Nghị định 282/2025/NĐ-CP (https://vbpl.vn/van-ban/chi-tiet/185254) | 144/2021/NĐ-CP | 15/12/2025 |
+| An ninh mạng, dữ liệu cá nhân | Nghị định 330/2026/NĐ-CP (https://vbpl.vn/van-ban/chi-tiet/90bd5de0-c524-11f1-86ef-85b9f675c340) | — | 19/8/2026 |
+| Tư pháp, hôn nhân và gia đình, thi hành án dân sự | Nghị định 109/2026/NĐ-CP (https://vbpl.vn/van-ban/chi-tiet/0ae72df0-4247-11f1-9aef-8b444472143a) | 82/2020/NĐ-CP | 18/5/2026 |
+| Tiền tệ, ngân hàng | Nghị định 340/2025/NĐ-CP (https://vbpl.vn/van-ban/chi-tiet/187101) | 88/2019/NĐ-CP | 9/2/2026 |
+| Y tế | Nghị định 90/2026/NĐ-CP (https://vbpl.vn/van-ban/chi-tiet/eaaaf970-9946-11f1-b0b8-ab6ff594e7de) | 117/2020/NĐ-CP | 15/5/2026 |
+| Phòng cháy, chữa cháy | Nghị định 106/2025/NĐ-CP, sửa bởi Nghị định 347/2026/NĐ-CP | — | — |
+
+Hà Nội: Luật Thủ đô 02/2026/QH16, Điều 14 khoản 1 điểm b cho Hội đồng nhân dân thành phố đặt mức phạt về phòng cháy, chữa cháy và giao thông cao hơn, tối đa gấp đôi mức chung.
+
+### 10.3 Luật, văn bản mới hoặc mới sửa
+
+- Luật Năng lượng nguyên tử 94/2025/QH15, hiệu lực 1/1/2026, thay luật năm 2008 (https://vbpl.vn/van-ban/chi-tiet/179271).
+- Luật Trí tuệ nhân tạo 134/2025/QH15, hiệu lực 1/3/2026 (https://vbpl.vn/van-ban/chi-tiet/69ba65c0-8a56-11f1-878c-399a87bcb3eb).
+- Luật 103/2025/QH15 (tương trợ tư pháp về hình sự) sửa Bộ luật Tố tụng hình sự các Điều 148, 185, 229, 247, 443, 496, từ 1/7/2026. Câu "24 giờ" ở Điều 148 không đổi.
+- Nghị định 152/2026/NĐ-CP hướng dẫn Luật Thi hành án dân sự 106/2025/QH15 (https://vbpl.vn/van-ban/chi-tiet/31537140-58ab-11f1-b443-b36c00ed7382).
+- Thông tư 28/2026/TT-BNNMT sửa danh mục thuốc bảo vệ thực vật của Thông tư 75/2025/TT-BNNMT. Luật 146/2025/QH15 sửa Luật Bảo vệ và kiểm dịch thực vật. Thuốc diệt cỏ paraquat không có trong danh mục được phép sử dụng, nên bị cấm dùng.
+- Nghị định 141/2024/NĐ-CP là nghị định hướng dẫn hiện hành của Luật Phòng, chống HIV/AIDS.
+- Luật Trách nhiệm bồi thường của Nhà nước 2017: điều kiện bồi thường khi bị bắt, tạm giữ chặt hơn khi bị tạm giam (Điều 18 khoản 2 và 3); các trường hợp không được bồi thường ở Điều 32 (gồm được miễn trách nhiệm hình sự, tự khai báo gian dối, vụ án khởi tố theo yêu cầu bị hại mà bị hại rút yêu cầu). Mức tổn thất tinh thần 5 ngày lương cơ sở cho 1 ngày bị giữ, tức 575 nghìn đồng một ngày theo lương cơ sở 2530000 đồng (tự tính). Luật 15/2026/QH16 sửa luật này từ 1/3/2027.
+- Luật Khám bệnh, chữa bệnh 2023, Điều 82 khoản 1: các trường hợp chữa bệnh tâm thần bắt buộc (gồm người trầm cảm có ý tưởng, hành vi tự sát). Nghị định 96/2023/NĐ-CP, Điều 93: Ủy ban nhân dân cấp xã nơi phát hiện người đó tổ chức đưa người đó đi chẩn đoán.
+- Nghị định 165/2026/NĐ-CP không có trên vbpl nhưng có bản ký số tại dinre.mae.gov.vn. Điều 48 khoản 1: đối tượng của Chương trình tiêm chủng mở rộng là trẻ em, phụ nữ có thai, người có nguy cơ; đối tượng khác theo quyết định của Thủ tướng. Chưa có độ tuổi, địa bàn triển khai HPV.
+
+### 10.4 Bẫy dữ liệu vbpl
+
+- Nghị định 05/2007/NĐ-CP (phòng chống bệnh dại) vbpl ghi "Còn hiệu lực", nhưng đã bị Nghị định 05/2020/NĐ-CP bãi bỏ (Điều 1, mục 26). Không trích.
+- Thông tư 46/2026/TT-NHNN vbpl ghi "Chưa có hiệu lực", nhưng có hiệu lực từ 1/11/2026.
+- Nghị định 147/2024/NĐ-CP (gỡ nội dung trên mạng trong 48 giờ) vẫn dẫn chiếu "Điều 8 Luật An ninh mạng" của luật năm 2018 đã hết hiệu lực. Phạm vi áp dụng với Luật An ninh mạng 2025 chưa rõ.
+
+### 10.5 Đã đóng trong danh sách CHƯA XÁC MINH
+
+- Mục 7: không luật sửa đổi nào đụng tới Điều 25 Luật Viễn thông.
+- Mục 8: Luật Thủ đô 02/2026 không sửa Điều 6 Luật Phòng cháy, chữa cháy (số 114).
+- Mục 13: phần trừ điểm, tước giấy phép lái xe kèm mức phạt nồng độ cồn đã xác minh (Nghị định 168/2024, Điều 6 khoản 15 điểm c, khoản 16; Điều 7 khoản 12 điểm c, khoản 13). Câu trích ở `translation/log/01.md` mục 9 và `translation/log/08.md` mục 7.
+- Mục 15: đã trích Điều 148 khoản 2 và Điều 160 khoản 1, 3 Bộ luật Tố tụng hình sự.
+- Mục 16 (một phần): Luật 81/2025/QH15 chỉ đổi tên tòa ở Điều 123 Luật Hôn nhân và gia đình, và chỉ sửa Điều 36 khoản 3, Điều 53 Luật Trách nhiệm bồi thường của Nhà nước.
+
 ## Danh sách CHƯA XÁC MINH
 
 Những điểm dưới đây chưa mở được văn bản chính thức hoặc chưa có câu trích. Không dùng trong sách cho đến khi có người xác minh.

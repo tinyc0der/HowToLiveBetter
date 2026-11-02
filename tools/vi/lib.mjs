@@ -88,7 +88,7 @@ export function parseEntry(raw, labels) {
   return out;
 }
 
-export const urlsOf = s => [...(s ?? '').matchAll(/https?:\/\/[^\s<>)\]）」，。；]+/g)].map(m => m[0].replace(/[.,;:]+$/, ''));
+export const urlsOf = s => [...(s ?? '').matchAll(/https?:\/\/(?:[^\s<>()\]）」，。；]|\([^\s()]*\))+/g)].map(m => m[0].replace(/[.,;:]+$/, ''));
 export const numbersOf = s => [...(s ?? '').matchAll(/\d+(?:\.\d+)?/g)].map(m => m[0]);
 export const HAN_RE = /\p{Script=Han}/u;
 
